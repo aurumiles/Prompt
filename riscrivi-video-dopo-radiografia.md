@@ -33,11 +33,16 @@ Non inventare dati. Se ti manca qualcosa, chiedimelo.
 ```
 
 ## Come si usa
-- **Da sostituire** (tutto ciò che è tra parentesi quadre), per ogni video: nome, le 3 righe su di te, piattaforma e durata, la radiografia, il copione originale, la trascrizione del tuo video migliore.
-- **Prima la radiografia.** Il prompt presuppone che la frattura sia già stata trovata (attenzione o fiducia). Se non c'è, falla prima: vedi [[fratture-del-video]].
+**Il processo è uno solo**: radiografia ([[radiografia-video-che-non-funziona]]) e riscrittura vanno nella stessa chat. Mappa completa in [[il-video-rifatto-processo]].
+1. **Torna nella chat della radiografia** e incolla questo prompt. Se la radiografia non c'è, falla prima.
+2. **Incolla la trascrizione del tuo video migliore** (più di una, se le hai): serve perché l'IA scriva come parli tu e non sembri scritto da un'IA.
+3. **Scegli 1 dei 10 ganci** con i 3 criteri: parla di chi guarda e non di me; si capisce in un secondo, anche senza audio; promette una cosa che il video mantiene presto. Se ne manca uno, lo scarti. Se i ganci non rispettano i criteri, chiedi di riscriverli: l'IA non indovina al primo colpo, la guidi tu.
+4. **Leggi lo script ad alta voce col cronometro.** Il gancio deve stare sotto i 10 secondi (meglio sotto i 5); la prima cosa forte entro 20-25 secondi; il contesto inutile va tolto, quello che serve va dentro la storia.
+5. **Scegli la chiusura** secondo l'obiettivo: farti seguire, farti scrivere o vendere. Deve dire a chi parli, mostrare una prova, dare un motivo per agire adesso.
+6. Se sei indeciso tra due ganci, **pubblicali tutti e due come reel di prova** (visibili solo ai follower) e dopo 3 giorni tieni il vincitore.
 - **Risposta attesa:** 10 ganci (con prima immagine), uno script più corto dell'originale, 3 chiusure.
-- **Dopo:** controlla ogni gancio con la lista di [[fratture-del-video]] (parla di chi guarda? la prima immagine si capisce senza audio? la chiusura dice cosa faccio?).
-- Fonte: corso gratuito «Il video rifatto» di GabrySolution, video 2 (riscrittura). Vedi [[corso-gabry-video-rifatto]].
+- **La prima immagine non si scrive, si monta:** è il tema del video 3.
+- Fonte: video 2 di «Il video rifatto» (GabrySolution). Vedi [[corso-gabry-video-rifatto]] e [[fratture-del-video]].
 
 <details>
 <summary>Versione originale (dal corso, prima delle aggiunte)</summary>
